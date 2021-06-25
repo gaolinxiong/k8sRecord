@@ -50,6 +50,7 @@ sudo rm -rf /var/lib/docker
 docker --version
 ```
 - 安装匹配版本的docker
+（docker菜鸟教程： https://www.runoob.com/docker/ubuntu-docker-install.html）
 ```
 // 更新 apt 包索引。
 apt-get update
